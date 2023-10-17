@@ -27,7 +27,19 @@ Your new recipe page should have the following content:
 
     Finally, under the ingredients list, add a “Steps” heading followed by an ordered list of the steps needed for making the dish.
 
-Iteration 4: add more recipes
-Add two more recipes with identical page structures to the recipe page you’ve already created.
-
     Don’t forget to link to the new recipes on the index page. Also, consider putting all the links in an unordered list so they aren’t all on one line.
+
+Branch UI: integrate CSS make it look prettier
+try to make a duplicate of original websites..clone as similarly as possible
+information and rating cards
+footers
+nav bars
+
+Branch Js - integrate JS and interaction with user:
+responsive
+social media share buttons
+
+URLs:
+spaghetti - https://www.foodandwine.com/recipes/spaghetti-cacio-e-pepe
+bibimbap - https://www.allrecipes.com/recipe/228240/bibimbap-korean-rice-with-mixed-vegetables/
+idombolo - https://foodloversmarket.co.za/recipes/beef-stew-dombolo/
