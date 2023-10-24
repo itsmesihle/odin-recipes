@@ -1,34 +1,31 @@
 #nav {
-    border: 100px;
-    padding: 10px 2px 10px 2px;
-    background-color: aquamarine;
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: flex-end;
-    align-items: center;
+  border: 100px;
+  padding: 10px 2px 10px 2px;
+  background-color: aquamarine;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 div {
-    padding: 0px 10px 0px 2px;
-    width: 70px;
-    height: 20px;
-    border: deeppink;
+  padding: 0px 10px 0px 2px;
+  width: 70px;
+  height: 20px;
+  border: deeppink;
 }
 
 .pasta {
-background-color: blue;
+  background-color: blue;
 }
 .rice-bowl {
-background-color: yellow;
+  background-color: yellow;
 }
 .dombolo {
-background-color: red;
+  background-color: red;
 }
 
-article {
-    padding: 0px 10px 0px 10px;
-}
-
+article,
 footer {
-    padding: 0px 10px 0px 10px;
+  padding: 0px 10px 0px 10px;
 }
