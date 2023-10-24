@@ -34,8 +34,9 @@ try to make a duplicate of original websites..clone as similarly as possible
 information and rating cards
 footers
 nav bars
+play around with flexbox properties
 
-Branch Js - integrate JS and interaction with user:
+Branch JS - integrate JS and interaction with user:
 responsive
 social media share buttons
 
