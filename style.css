@@ -1,11 +1,54 @@
+* {
+  margin: 0;
+  padding: 0px 10px 0px 10px;
+  box-sizing: border-box;
+  border: 2px dashed red;
+  text-align: justify;
+}
+
+html {
+  background-color: black;
+}
+
+/* html {
+    font-size: 1rem;
+}  rem stands for root element, this is the root size that is the default size of the browser which is usually 16pxl*/
+
+body {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aqua;
+}
+
+header {
+  border: 2px dashed black;
+  width: 100%;
+  background-color: white;
+  display: flex;
+  align-content: end;
+}
+
+article {
+  background-color: beige;
+}
+
+footer {
+  padding: 0px 10px 0px 10px;
+  background-color: navy;
+  text-wrap: normal;
+}
+
 #nav {
-  border: 100px;
+  border: 2px dashed purple;
+  width: 50%;
+
   padding: 10px 2px 10px 2px;
   background-color: aquamarine;
   display: flex;
   flex-flow: row nowrap;
   justify-content: flex-end;
   align-items: center;
+  padding: 0px 10px 0px 10px;
 }
 
 div {
@@ -17,15 +60,12 @@ div {
 
 .pasta {
   background-color: blue;
+  border: 5px double white;
 }
+
 .rice-bowl {
   background-color: yellow;
 }
 .dombolo {
   background-color: red;
-}
-
-article,
-footer {
-  padding: 0px 10px 0px 10px;
 }
